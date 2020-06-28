@@ -1,0 +1,35 @@
+git --version
+  477  git config --global user.name "Harshith"
+  478  git config --global user.email "saiharshithballa99@gmail.com"
+  479  pwd
+  480  cd '/c/Users/Sai Harshith/Desktop/gitt'
+  481  pwd
+  482  mkdir "hello-world"
+  483  cd hello-world/
+  484  git init
+  485  touch "index.html"
+  486  git status
+  487  git add index.html
+  488  git status
+  489   git commit -m "My first commit."
+  490  git checkout -- .
+  491  cd ..
+  492  git clone https://github.com/LearnWebCode/welcome-to-git.git
+  493  git clone https://github.com/LearnWebCode/travel-site-files.git
+  494   cd first-git-trail/
+  495  git remote -v
+  496  git remote set-url origin https://github.com/harshithballa/first-git-trail.git
+  497  git remote -v
+  498  git push origin master
+  499  cd app
+  500  nano index.html
+  501  git status
+  502  cd ..
+  503  git add -A
+  504  git status
+  505  git commit -m 'Added new meta keywords.'
+  506  git push origin master
+  507  hist
+  508  doskey/history
+  509  /history
+  510  history
