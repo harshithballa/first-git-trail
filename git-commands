@@ -1,6 +1,6 @@
 git --version
   477  git config --global user.name "Harshith"
-  478  git config --global user.email "saiharshithballa99@gmail.com"
+  478  git config --global user.email "saihar@gmail.com"
   479  pwd
   480  cd '/c/Users/Sai Harshith/Desktop/gitt'
   481  pwd
